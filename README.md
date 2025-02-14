@@ -32,7 +32,7 @@ Users should be able to:
 
 ## Author
 
-- GitHub - [quielLovesLasagna](https://github.com/quielLovesLasagna)
+- GitHub - [Huzaifa Mill](https://github.com/Huzaifa100203)
 
 ## Acknowledgements
 
